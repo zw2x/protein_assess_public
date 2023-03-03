@@ -1,0 +1,6 @@
+# --------- common --------- #
+tqdm
+pytest
+biopython
+numpy>=1.22.0
+
